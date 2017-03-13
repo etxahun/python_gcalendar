@@ -44,7 +44,7 @@ Turn on the Google Calendar API:
 
 Run the application using the following command:
 ```shell
-$python quickstart.py
+$python client.py
 ```
 1. The sample will attempt to open a new window or tab in your default browser. If this fails, copy the URL from the console and manually open it in your browser.
 
