@@ -12,7 +12,7 @@ Simple Python command-line application that makes requests to the Google Calenda
 
 To run this application, you'll need:
 
-* Python 2.6 or greater.
+* **Python 2.6** or greater.
 * The pip package management tool.
 * Access to the internet and a web browser.
 * A Google account with Google Calendar enabled.
@@ -24,6 +24,7 @@ $pip install --upgrade google-api-python-client
 ## Configuration
 
 Turn on the Google Calendar API:
+
 1. Use [this wizard](https://console.developers.google.com/start/api?id=calendar) to create or select a project in the Google Developers Console and automatically turn on the API. Click **Continue**, then **Go to credentials**.
 
 2. On the **Add credentials to your project** page, click the **Cancel** button.
